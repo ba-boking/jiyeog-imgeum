@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Emgum.iml" filepath="$PROJECT_DIR$/.idea/Emgum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jiyeog-imgeum/.idea/Emgum.iml" filepath="$PROJECT_DIR$/../jiyeog-imgeum/.idea/Emgum.iml" />
     </modules>
   </component>
 </project>
